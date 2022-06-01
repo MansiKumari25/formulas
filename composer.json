@@ -1,0 +1,19 @@
+{
+    "name": "mansikumari25/formulas",
+    "description": "formula packages....",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MansiKumari25",
+            "email": "mansikumari@cedcoss.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Maths\\": "/src"
+        }
+    },
+    "require": {}
+}
